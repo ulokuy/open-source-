@@ -1,7 +1,7 @@
 local creator = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Creator.CreatorTargetId
 
 if creator == 11867394 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/Just3itx/Lunor-Loadstrings/refs/heads/main/Games'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ulokuy/Open-source-2/refs/heads/main/Dead%20rail%202'))()
     return
 end
 --[[
